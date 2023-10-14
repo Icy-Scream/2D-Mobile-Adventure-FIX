@@ -303,7 +303,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _speed: 5
-  _jumpForce: 40
+  _jumpForce: 10
   _groundMask:
     serializedVersion: 2
     m_Bits: 8
